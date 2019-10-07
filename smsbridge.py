@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-/* sms bridge using twilio and discordpy version like 0.6 */
+"""sms bridge using twilio and discordpy version like 0.6"""
 
 
 import asyncio
